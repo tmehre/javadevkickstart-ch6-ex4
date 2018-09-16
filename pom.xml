@@ -3,7 +3,7 @@
 
 	<groupId>de.entwicklerkurs.maven</groupId>
 	<artifactId>javadevkickstart-maven-war-example</artifactId>
-	<version>0.0.2-SNAPSHOT</version>
+	<version>0.0.2</version>
 	<packaging>war</packaging>
 
 	<properties>
@@ -48,6 +48,6 @@
 		<url>scm:git:https://github.com/tmehre/javadevkickstart-ch6-ex4.git</url>
 		<connection>scm:git:https://github.com/tmehre/javadevkickstart-ch6-ex4.git</connection>
 		<developerConnection>scm:git:https://github.com/tmehre/javadevkickstart-ch6-ex4.git</developerConnection>
-	  <tag>HEAD</tag>
+	  <tag>javadevkickstart-maven-war-example-0.0.2</tag>
   </scm>
 </project>
