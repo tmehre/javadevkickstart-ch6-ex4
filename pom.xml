@@ -26,7 +26,10 @@
 				<artifactId>maven-release-plugin</artifactId>
 				<version>2.5.3</version>
 				<configuration>
+					<!-- Falls deployment gewünscht, einfach auskommentieren  -->
 					<goals>install</goals>
+					
+					<!-- Git per JGit  -->
 					<providerImplementations>
 						<git>jgit</git>
 					</providerImplementations>
